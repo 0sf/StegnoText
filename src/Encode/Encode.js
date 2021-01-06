@@ -76,7 +76,7 @@ function Encode() {
                   setisEnc(!isEnc);
                 }}
               />
-              <label className="form-check-label">Encrypt</label>{" "}
+              <label className="form-check-label">Base64 Encode</label>{" "}
             </div>
           </div>
           {/* <input type="password" className="form-control w-25" /> */}
